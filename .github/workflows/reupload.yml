@@ -1,0 +1,40 @@
+name: Re-upload Release Assets
+on:
+  workflow_dispatch:
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download from old URLs and upload to new release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          RELEASE_ID=298779884
+          REPO="SyncweApp/docs"
+          
+          # These are the R2/original source URLs
+          declare -A FILES
+          FILES[syncwe_arm64-v8a_2.8.5.apk]="https://sfmodels.qnaigc.com/test/syncwe_arm64-v8a_2.8.5%20%282%29.apk"
+          FILES[syncwe_armeabi-v7a_2.8.5.apk]="https://sfmodels.qnaigc.com/test/syncwe_armeabi-v7a_2.8.5.apk"
+          FILES[syncwe_ios_2.8.5.ipa]="https://sfmodels.qnaigc.com/test/syncwe_ios_2.8.5.ipa"
+          FILES[syncwe_macos_2.8.5.dmg]="https://sfmodels.qnaigc.com/test/syncwe_macos_2.8.5.dmg"
+          FILES[syncwe_windows_x64_2.8.5.exe]="https://sfmodels.qnaigc.com/test/syncwe_windows_x64_2.8.5.exe"
+          FILES[syncwe_x86_64_2.8.5.apk]="https://sfmodels.qnaigc.com/test/syncwe_x86_64_2.8.5.apk"
+          
+          for filename in "${!FILES[@]}"; do
+            url="${FILES[$filename]}"
+            echo "Downloading $filename from $url..."
+            curl -L -o "$filename" "$url"
+            SIZE=$(stat -f%z "$filename" 2>/dev/null || stat -c%s "$filename")
+            echo "  Size: $SIZE bytes"
+            
+            echo "Uploading $filename to release..."
+            curl -s -X POST \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Content-Type: application/octet-stream" \
+              "https://uploads.github.com/repos/$REPO/releases/$RELEASE_ID/assets?name=$filename" \
+              --data-binary "@$filename"
+            echo ""
+            echo "  Done: $filename"
+            rm -f "$filename"
+          done
