@@ -46,10 +46,17 @@
 <div align="center">
   
 
+  <h3>🖥️ 横屏体验</h3>
   <img src="docs/public/assets/screenshots/landscape1.png" alt="播放界面" width="380" />
   <img src="docs/public/assets/screenshots/landscape2.png" alt="房间同步" width="380" />
   <img src="docs/public/assets/screenshots/landscape3.png" alt="弹幕互动" width="380" />
   <img src="docs/public/assets/screenshots/landscape4.png" alt="多人同步观影" width="380" />
+  
+  <h3>📱 手机端</h3>
+  <img src="docs/public/assets/screenshots/portrait1.jpg" alt="搜索界面" width="180" />
+  <img src="docs/public/assets/screenshots/portrait2.jpg" alt="工具中心" width="180" />
+  <img src="docs/public/assets/screenshots/portrait3.jpg" alt="资源大厅" width="180" />
+  <img src="docs/public/assets/screenshots/portrait4.jpg" alt="房间列表" width="180" />
 
   <!-- <img src="assets/screenshots/landscape (1).png" alt="播放界面" width="280" />
   <img src="assets/screenshots/landscape (2).png" alt="房间功能" width="280" />
