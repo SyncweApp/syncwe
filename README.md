@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://socialify.git.ci/SyncweApp/syncwe/image?description=1&descriptionEditable=%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%AE%9E%E6%97%B6%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%EF%BC%8C%E5%85%B1%E4%BA%AB%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89&font=Jost&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSyncweApp%syncwe%2Fmain%2Fdocs%2Fpublic%2Fassets%2Flogo.png&name=1&owner=1&pattern=Plus&theme=Light" alt="Syncwe 一起看" />
+  <img src="https://socialify.git.ci/SyncweApp/syncwe/image?description=1&descriptionEditable=%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%AE%9E%E6%97%B6%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%EF%BC%8C%E5%85%B1%E4%BA%AB%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89&font=Jost&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSyncweApp%2Fsyncwe%2Fmain%2Fdocs%2Fpublic%2Fassets%2Flogo.png&name=1&owner=1&pattern=Plus&theme=Light" alt="Syncwe 一起看" />
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)](docs/download.md)
@@ -46,10 +46,10 @@
 <div align="center">
   
 
-  <img src="docs/public/assets/screenshots/landscape2.png" alt="房间功能"  />
-  <img src="docs/public/assets/screenshots/combine4.jpg" alt="控制面板" />
-  <img src="docs/public/assets/screenshots/combine6.jpg" alt="控制面板" />
-  <img src="docs/public/assets/screenshots/combine5.jpg" alt="控制面板" />
+  <img src="docs/public/assets/screenshots/landscape1.png" alt="播放界面" width="380" />
+  <img src="docs/public/assets/screenshots/landscape2.png" alt="房间同步" width="380" />
+  <img src="docs/public/assets/screenshots/landscape3.png" alt="弹幕互动" width="380" />
+  <img src="docs/public/assets/screenshots/landscape4.png" alt="多人同步观影" width="380" />
 
   <!-- <img src="assets/screenshots/landscape (1).png" alt="播放界面" width="280" />
   <img src="assets/screenshots/landscape (2).png" alt="房间功能" width="280" />
