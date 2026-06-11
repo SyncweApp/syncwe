@@ -4,7 +4,7 @@
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)](docs/download.md)
   [![Latest Release](https://img.shields.io/badge/release-latest-brightgreen.svg)](docs/changelog.md)
-  [![Downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/downloads-badge.json)](docs/download.md)
+  [![Downloads](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/sync-we/1efa1cc57e901ea71908da7e85c9bc13/raw/syncwe-downloads.json)](docs/download.md)
   
   [📥 下载应用](docs/download.md) • [📖 使用文档](docs/index.md) • [❓ 常见问题](docs/help.md) • [🔄 更新日志](docs/changelog.md)
   
