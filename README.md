@@ -41,6 +41,13 @@
 ---
 
 
+## 🎬 演示视频
+
+https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
+
+---
+
+
 ## 📸 应用截图
 
 
