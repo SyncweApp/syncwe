@@ -2,18 +2,14 @@
 
 <div align="center">
 
-<img src="docs/public/assets/logo.png" alt="Syncwe" width="96" />
-
-# Syncwe 一起看
-
-**隔着屏幕，也能坐在同一张沙发上。**
+<img src="https://socialify.git.ci/SyncweApp/syncwe/image?description=1&descriptionEditable=%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%AE%9E%E6%97%B6%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%EF%BC%8C%E5%85%B1%E4%BA%AB%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89&font=Jost&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSyncweApp%2Fsyncwe%2Fmain%2Fdocs%2Fpublic%2Fassets%2Flogo.png&name=1&owner=1&pattern=Plus&theme=Light" alt="Syncwe 一起看" />
 
 和朋友、家人、另一半同步看同一个视频——进度一致，边看边聊。
 
-[![Release](https://img.shields.io/github/v/release/SyncweApp/syncwe?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=ff4d8d)](https://github.com/SyncweApp/syncwe/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/SyncweApp/syncwe/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F)](https://github.com/SyncweApp/syncwe/releases)
-[![Platform](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Android%20%7C%20iOS%20%7C%20macOS%20%7C%20Windows-lightgrey)](https://syncwe.top/download/)
-[![Status](https://uptime.syncwe.top/api/badge/1/status?label=%E6%9C%8D%E5%8A%A1%E7%8A%B6%E6%80%81&upLabel=%E6%AD%A3%E5%B8%B8&upColor=22c55e&downLabel=%E5%BC%82%E5%B8%B8&downColor=ef4444)](https://uptime.syncwe.top/)
+[![Release](https://img.shields.io/github/v/release/SyncweApp/syncwe?label=release&color=ff4d8d)](https://github.com/SyncweApp/syncwe/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/SyncweApp/syncwe/total?label=downloads)](https://github.com/SyncweApp/syncwe/releases)
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20macOS%20%7C%20Windows-lightgrey)](https://syncwe.top/download/)
+[![Status](https://uptime.syncwe.top/api/badge/1/status?label=Status&upLabel=UP&upColor=22c55e&downLabel=DOWN&downColor=ef4444)](https://uptime.syncwe.top/)
 
 [官网](https://syncwe.top/) · [下载](https://syncwe.top/download/) · [新手入门](docs/guide/getting-started.md) · [常见问题](docs/help.md) · [反馈](https://github.com/SyncweApp/syncwe/issues)
 
@@ -52,9 +48,7 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
   <img src="docs/public/assets/screenshots/landscape1.png" alt="边看边聊" width="49%" />
   <img src="docs/public/assets/screenshots/landscape2.png" alt="房间设置" width="49%" />
   <img src="docs/public/assets/screenshots/landscape3.png" alt="房间列表" width="49%" />
-  <img src="docs/public/assets/screenshots/landscape4.png" alt="工具中心" width="49%" />
-  <img src="docs/public/assets/screenshots/landscape5.png" alt="动漫搜索" width="49%" />
-</div>
+  <img src="docs/public/assets/screenshots/landscape4.png" alt="工具中心" width="49%" /></div>
 
 <br />
 
