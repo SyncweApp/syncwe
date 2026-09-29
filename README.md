@@ -1,67 +1,64 @@
+<a id="top"></a>
+
 <div align="center">
-  <img src="https://socialify.git.ci/SyncweApp/syncwe/image?description=1&descriptionEditable=%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%AE%9E%E6%97%B6%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%EF%BC%8C%E5%85%B1%E4%BA%AB%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89&font=Jost&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSyncweApp%2Fsyncwe%2Fmain%2Fdocs%2Fpublic%2Fassets%2Flogo.png&name=1&owner=1&pattern=Plus&theme=Light" alt="Syncwe 一起看" />
-  
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-  [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)](docs/download.md)
-  [![Latest Release](https://img.shields.io/badge/release-latest-brightgreen.svg)](docs/changelog.md)
-  [![Downloads](https://img.shields.io/github/downloads/SyncweApp/syncwe/total)](docs/download.md)
-  
-  [📥 下载应用](docs/download.md) • [📖 使用文档](docs/index.md) • [❓ 常见问题](docs/help.md) • [🔄 更新日志](docs/changelog.md)
-  
+
+<img src="docs/public/assets/logo.png" alt="Syncwe" width="96" />
+
+# Syncwe 一起看
+
+**隔着屏幕，也能坐在同一张沙发上。**
+
+和朋友、家人、另一半同步看同一个视频——进度一致，边看边聊。
+
+[![Release](https://img.shields.io/github/v/release/SyncweApp/syncwe?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=ff4d8d)](https://github.com/SyncweApp/syncwe/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/SyncweApp/syncwe/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F)](https://github.com/SyncweApp/syncwe/releases)
+[![Platform](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Android%20%7C%20iOS%20%7C%20macOS%20%7C%20Windows-lightgrey)](https://syncwe.top/download/)
+[![Status](https://uptime.syncwe.top/api/badge/1/status?label=%E6%9C%8D%E5%8A%A1%E7%8A%B6%E6%80%81&upLabel=%E6%AD%A3%E5%B8%B8&upColor=22c55e&downLabel=%E5%BC%82%E5%B8%B8&downColor=ef4444)](https://uptime.syncwe.top/)
+
+[官网](https://syncwe.top/) · [下载](https://syncwe.top/download/) · [新手入门](docs/guide/getting-started.md) · [常见问题](docs/help.md) · [反馈](https://github.com/SyncweApp/syncwe/issues)
+
 </div>
 
 ---
 
-<!-- ## 📋 目录
-
-- [项目简介](#-项目简介)
-- [核心功能](#-核心功能)
-- [应用截图](#-应用截图)
-- [平台支持](#️-平台支持)
-- [使用指南](#-使用指南)
-- [贡献规则](#-贡献规则)
-- [版本历史](#-版本历史)
-- [常见问题](#-常见问题)
-- [支持与反馈](#-支持与反馈)
-- [许可证](#-许可证)
-
---- -->
-
-## 📱 项目简介
-
-**Syncwe（一起看）** 是一款创新的跨平台视频同步观看应用，专为远距离的朋友和家人设计。无论相隔多远，都能像坐在同一个沙发上一样，一起看电影、追剧、看直播，实时分享观影乐趣。
-
-### 🌟 为什么选择 Syncwe？
-
-- **🎯 完美同步**：秒级同步技术，确保所有人观看进度一致
-- **🌍 跨平台**：支持 iOS、Android、Windows、macOS 全平台
-- **🎬 多源支持**：支持在线视频、Emby、夸克网盘、WebDAV 等多种视频源
-- **💡 智能便捷**：视频嗅探、直播解析等强大功能
-
----
-
-
-## 🎬 演示视频
-
 https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
 
----
+## 它能做什么
 
+**一起看**
+- 房间内播放、暂停、拖动进度实时同步，所有人看到的是同一帧
+- 用房间码邀请好友，可设为私密房间
+- 边看边聊：聊天、弹幕、语音通话，还能 @ 房间 Bot
+- 播放列表，看完一集接着下一集
 
-## 📸 应用截图
+**片源从哪来**
+- 夸克网盘、WebDAV / Alist、Emby 媒体服务器
+- 网盘搜索、动漫搜索（基于 XPath 的社区规则）、番剧排期
+- 视频解析：粘贴抖音、快手、小红书等 50 个平台的分享链接即可播放
+- B 站解析、直播解析（抖音 / 哔哩哔哩）、网页视频嗅探
 
+**播放器**
+- 原生、MPV、MDK 三种内核可切换
+- 倍速、字幕、音轨切换
+- 画中画、DLNA 投屏
+
+**其他**
+- 观影档案：记录一起看过的片子
+- 私聊、简评、用户排行
+
+## 截图
 
 <div align="center">
-  
+  <img src="docs/public/assets/screenshots/landscape1.png" alt="边看边聊" width="49%" />
+  <img src="docs/public/assets/screenshots/landscape2.png" alt="房间设置" width="49%" />
+  <img src="docs/public/assets/screenshots/landscape3.png" alt="房间列表" width="49%" />
+  <img src="docs/public/assets/screenshots/landscape4.png" alt="工具中心" width="49%" />
+  <img src="docs/public/assets/screenshots/landscape5.png" alt="动漫搜索" width="49%" />
+</div>
 
-  <h3>🖥️ 横屏体验</h3>
-  <img src="docs/public/assets/screenshots/landscape1.png" alt="边看边聊" width="380" />
-  <img src="docs/public/assets/screenshots/landscape2.png" alt="房间设置" width="380" />
-  <img src="docs/public/assets/screenshots/landscape3.png" alt="房间列表" width="380" />
-  <img src="docs/public/assets/screenshots/landscape4.png" alt="工具中心" width="380" />
-  <img src="docs/public/assets/screenshots/landscape5.png" alt="动漫搜索" width="380" />
-  
-  <h3>📱 手机端</h3>
+<br />
+
+<div align="center">
   <img src="docs/public/assets/screenshots/portrait1.jpg" alt="房间列表" width="200" />
   <img src="docs/public/assets/screenshots/portrait2.jpg" alt="工具中心" width="200" />
   <img src="docs/public/assets/screenshots/portrait3.jpg" alt="视频解析" width="200" />
@@ -69,221 +66,58 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
   <img src="docs/public/assets/screenshots/portrait4.jpg" alt="B站解析" width="200" />
   <img src="docs/public/assets/screenshots/portrait5.jpg" alt="房间设置" width="200" />
   <img src="docs/public/assets/screenshots/portrait6.jpg" alt="观影档案" width="200" />
-
-  <!-- <img src="assets/screenshots/landscape (1).png" alt="播放界面" width="280" />
-  <img src="assets/screenshots/landscape (2).png" alt="房间功能" width="280" />
-  <img src="assets/screenshots/landscape (3).png" alt="控制面板" width="280" />
-   -->
-
-<!--   
-  <img src="assets/screenshots/protrait (1).jpg" alt="首页" width="160" />
-  <img src="assets/screenshots/protrait (2).jpg" alt="搜索" width="160" />
-  <img src="assets/screenshots/protrait (3).jpg" alt="播放" width="160" />
-  <img src="assets/screenshots/protrait (4).jpg" alt="房间" width="160" />
-  
-  <img src="assets/screenshots/protrait (5).jpg" alt="视频源" width="160" />
-  <img src="assets/screenshots/protrait (6).jpg" alt="Emby" width="160" />
-  <img src="assets/screenshots/protrait (7).jpg" alt="收藏" width="160" />
-  <img src="assets/screenshots/protrait (9).jpg" alt="设置" width="160" />
-  <img src="assets/screenshots/protrait (10).jpg" alt="直播" width="160" />
-  <img src="assets/screenshots/protrait (11).jpg" alt="嗅探" width="160" />
-   -->
 </div>
 
+## 下载
 
----
+所有安装包都在 [Releases](https://github.com/SyncweApp/syncwe/releases/latest)，也可以从 [官网下载页](https://syncwe.top/download/) 获取。
 
+| 平台 | 安装包 | 系统要求 |
+|------|--------|----------|
+| Android | `arm64-v8a` / `armeabi-v7a` / `x86_64` 的 `.apk`（大多数手机选 `arm64-v8a`） | Android 7.0+ |
+| iOS | `.ipa`，用 AltStore 或 Sideloadly 自签安装 | iOS 15.4+ |
+| macOS | `.dmg` | macOS 12.0+ |
+| Windows | `windows_x64_setup.exe` | Windows 10+（x64） |
 
-## ✨ 核心功能
+## 使用指南
 
-### 🎥 同步观影体验
-
-- **⏱️ 实时同步播放** - 所有人的视频进度完全同步，确保共同的观影体验
-- **👨‍👩‍👧‍👦 多人房间** - 创建私密或公开房间，邀请好友一起观看
-- **💬 实时互动聊天** - 边看边聊，分享观影感受和精彩瞬间
-- **🎮 同步控制** - 房主可控制播放、暂停、快进等操作
-
-### 📺 多样化视频源
-
-- **🎬 在线视频资源** - 支持主流视频网站和在线资源
-- **🖥️ Emby 服务器** - 无缝集成 Emby 媒体服务器
-- **☁️ 夸克网盘** - 直接播放夸克网盘中的视频文件
-- **🔄 WebDAV/Alist** - 支持 WebDAV 和 Alist 网盘服务
-
-### 🎮 强大播放功能
-
-- **⏩ 变速播放** - 支持 0.5x - 4x 倍速播放
-- **💬 弹幕系统** - 完整的弹幕发送和显示功能
-- **🔊 音轨切换** - 多音轨选择，支持多语言切换
-- **💻 字幕设置** - 自定义字幕样式、大小和位置
-- **📱 画中画模式** - 支持后台播放和画中画观看
-- **📺 投屏功能** - 投屏到电视等大屏设备
-
-### 🔍 智能功能
-
-- **🕵️ 视频嗅探** - 智能分析网页中的视频资源，提取视频源地址
-- **📡 直播解析** - 获取抖音和哔哩哔哩平台的直播流
-- **🔎 强大搜索** - 多搜索引擎聚合，快速找到想看的内容
-- **🤖 番剧搜索** - 基于XPATH的视频爬虫
-
-### 💾 个人中心
-
-- **⭐ 影片收藏** - 云端收藏喜爱的影片，随时随地观看
-- **📊 观看历史** - 自动记录观看进度，无缝续播
-- **☁️ 云端同步** - 收藏跨设备同步
-
----
-
-## 🛠️ 平台支持
-
-<table>
-  <tr>
-    <td align="center">📱 <strong>iOS</strong></td>
-    <td>iOS 12.0 及以上</td>
-  </tr>
-  <tr>
-    <td align="center">📱 <strong>Android</strong></td>
-    <td>Android 5.0 及以上</td>
-  </tr>
-  <tr>
-    <td align="center">🖥️ <strong>Windows</strong></td>
-    <td>Windows 10 及以上</td>
-  </tr>
-  <tr>
-    <td align="center">🖥️ <strong>macOS</strong></td>
-    <td>macOS 10.13 及以上</td>
-  </tr>
-</table>
-
----
-
-## 📖 使用指南
-
-我们提供了详细的使用文档，帮助您更好地使用"一起看"：
-
-| 指南 | 说明 |
+| 指南 | 内容 |
 |------|------|
-| [🎬 新手入门](docs/guide/getting-started.md) | 快速了解应用基本使用 |
-| [🔍 视频搜索](docs/guide/anime_search.md) | 如何使用搜索功能找到想看的内容 |
-| [📦 导入规则](docs/guide/import_source.md) | 如何导入自定义视频源规则 |
-| [🖥️ Emby 配置](docs/guide/emby_guide.md) | Emby 服务器配置教程 |
-| [☁️ 夸克网盘](docs/guide/quark_netdisk.md) | 夸克网盘使用指南 |
-| [🔄 WebDAV/Alist](docs/guide/webdav_alist.md) | WebDAV 和 Alist 配置 |
-| [🕵️ 视频嗅探](docs/guide/video_sniffer.md) | 使用视频嗅探功能 |
-| [📡 直播解析](docs/guide/live_parser.md) | 直播流解析使用教程 |
-| [🎬 视频分析](docs/guide/video_analyse.md) | 视频分析工具使用 |
+| [新手入门](docs/guide/getting-started.md) | 注册、建房间、邀请好友 |
+| [夸克网盘](docs/guide/quark_netdisk.md) | 登录夸克、播放网盘视频 |
+| [WebDAV / Alist](docs/guide/webdav_alist.md) | 接入自己的网盘 |
+| [Emby](docs/guide/emby_guide.md) | 接入 Emby 媒体服务器 |
+| [动漫搜索](docs/guide/anime_search.md) | 搜索并播放动漫 |
+| [视频解析](docs/guide/video_analyse.md) | 视频解析工具的用法 |
+| [视频嗅探](docs/guide/video_sniffer.md) | 从网页中抓取视频地址 |
+| [直播解析](docs/guide/live_parser.md) | 获取抖音 / B 站直播流 |
 
----
+## 贡献搜索规则
 
+动漫搜索的规则由社区维护，欢迎到 [SyncweRules](https://github.com/SyncweApp/SyncweRules) 提交新规则或修复失效规则。
 
-## 🤝 贡献规则
+## 反馈与交流
 
-我们欢迎社区贡献视频源规则！这可以让所有用户受益。
+- 问题和建议：[GitHub Issues](https://github.com/SyncweApp/syncwe/issues)
+- 更新动态：[WhatsApp 频道](https://whatsapp.com/channel/0029Vb7ZAfYEwEk27mbDW71Q)
 
-### 如何贡献规则？
+## 声明
 
-1. 访问规则仓库：[https://github.com/SyncweApp/SyncweRules](https://github.com/SyncweApp/SyncweRules)
-2. Fork 项目到您的账号
-3. 添加或修改规则文件
-4. 提交 Pull Request
-5. 等待审核合并
+Syncwe 只是一个播放和同步工具，本身不提供任何视频内容。视频均来自第三方网站或用户自己的资源，请遵守当地法律法规使用。
 
-### 规则格式
+使用即表示同意 [用户协议](docs/terms.md) 和 [隐私政策](docs/privacy.md)。
 
-规则文件需要遵循特定的 JSON 格式，详见规则仓库的说明文档。
+## Star History
 
-> 👏 **感谢每一位贡献者！** 你们的贡献让"一起看"变得更好。
-
----
-
-## 📈 版本历史
-
-
-查看 [完整更新日志](docs/changelog.md) 了解详细版本历史和功能更新。
-
----
-
-## ❓ 常见问题
-
-
-### 视频卡顿怎么办？
-
-1. 检查网络连接（某些可能需要🪜）
-2. 更换视频源
-
-### 如何添加自定义源？
-
-查看 [导入规则指南](docs/guide/import_source.md) 了解详细步骤。
-
-更多问题请访问 [帮助中心](docs/help.md)。
-
----
-
-## 🤝 支持与反馈
-
-### 📚 文档资源
-
-- [📖 完整文档](docs/index.md)
-- [❓ 帮助中心](docs/help.md)
-- [🔄 更新日志](docs/changelog.md)
-
-
----
-
-## 📄 法律信息
-
-### 用户协议与隐私
-
-- [📋 用户协议](docs/terms.md)
-- [🔒 隐私政策](docs/privacy.md)
-
-### 免责声明
-
-本应用仅作为视频播放工具使用，不提供任何视频内容。所有视频内容均来自第三方网站或用户自有资源。用户需遵守当地法律法规，合理使用本应用。
-
----
-
-## 📜 许可证
-
-本项目文档采用 [MIT License](LICENSE) 开源协议。
-
----
-
-
-## 🌟 Star History
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=SyncweApp/docs&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=SyncweApp/docs&type=Date
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=SyncweApp/docs&type=Date"
-  />
-</picture>
-
-如果你喜欢这个项目，请给我们一个 Star ⭐️
-
----
+<a href="https://star-history.com/#SyncweApp/syncwe&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SyncweApp/syncwe&type=Date&theme=dark" />
+    <img alt="Star History" src="https://api.star-history.com/svg?repos=SyncweApp/syncwe&type=Date" />
+  </picture>
+</a>
 
 <div align="center">
-  
-  ### 让距离不再是问题，一起看更精彩！
-  
-  [⬆ 回到顶部](#top)
-  
-  ---
-  
-  **Copyright © 2025-2026 Syncwe 团队. All Rights Reserved.**
-  
-  Made with ❤️ by Syncwe Team
-  
+
+<sub>Copyright © 2025-2026 Syncwe · [回到顶部](#top)</sub>
+
 </div>
