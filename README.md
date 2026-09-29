@@ -61,10 +61,13 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
   <img src="docs/public/assets/screenshots/landscape4.png" alt="多人同步观影" width="380" />
   
   <h3>📱 手机端</h3>
-  <img src="docs/public/assets/screenshots/portrait1.jpg" alt="搜索界面" width="180" />
-  <img src="docs/public/assets/screenshots/portrait2.jpg" alt="工具中心" width="180" />
-  <img src="docs/public/assets/screenshots/portrait3.jpg" alt="资源大厅" width="180" />
-  <img src="docs/public/assets/screenshots/portrait4.jpg" alt="房间列表" width="180" />
+  <img src="docs/public/assets/screenshots/portrait1.jpg" alt="房间列表" width="200" />
+  <img src="docs/public/assets/screenshots/portrait2.jpg" alt="工具中心" width="200" />
+  <img src="docs/public/assets/screenshots/portrait3.jpg" alt="视频解析" width="200" />
+  <br />
+  <img src="docs/public/assets/screenshots/portrait4.jpg" alt="B站解析" width="200" />
+  <img src="docs/public/assets/screenshots/portrait5.jpg" alt="房间设置" width="200" />
+  <img src="docs/public/assets/screenshots/portrait6.jpg" alt="观影档案" width="200" />
 
   <!-- <img src="assets/screenshots/landscape (1).png" alt="播放界面" width="280" />
   <img src="assets/screenshots/landscape (2).png" alt="房间功能" width="280" />
