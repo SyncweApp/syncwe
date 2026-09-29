@@ -55,10 +55,11 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
   
 
   <h3>🖥️ 横屏体验</h3>
-  <img src="docs/public/assets/screenshots/landscape1.png" alt="播放界面" width="380" />
-  <img src="docs/public/assets/screenshots/landscape2.png" alt="房间同步" width="380" />
-  <img src="docs/public/assets/screenshots/landscape3.png" alt="弹幕互动" width="380" />
-  <img src="docs/public/assets/screenshots/landscape4.png" alt="多人同步观影" width="380" />
+  <img src="docs/public/assets/screenshots/landscape1.png" alt="边看边聊" width="380" />
+  <img src="docs/public/assets/screenshots/landscape2.png" alt="房间设置" width="380" />
+  <img src="docs/public/assets/screenshots/landscape3.png" alt="房间列表" width="380" />
+  <img src="docs/public/assets/screenshots/landscape4.png" alt="工具中心" width="380" />
+  <img src="docs/public/assets/screenshots/landscape5.png" alt="动漫搜索" width="380" />
   
   <h3>📱 手机端</h3>
   <img src="docs/public/assets/screenshots/portrait1.jpg" alt="房间列表" width="200" />
