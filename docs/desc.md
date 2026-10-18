@@ -65,7 +65,7 @@
 <div align="center">
   
 
-  <img src="/assets/screenshots/landscape1.png" alt="房间功能" />
+  <img src="/assets/screenshots/landscape1.jpg" alt="一起看" />
   <img src="/assets/screenshots/combine1.jpg" alt="控制面板" />
   <img src="/assets/screenshots/combine2.jpg" alt="控制面板" />
   <!-- <img src="assets/screenshots/landscape (1).png" alt="播放界面" width="280" />
