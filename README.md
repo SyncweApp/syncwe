@@ -35,7 +35,9 @@
   <a href="https://github.com/SyncweApp/syncwe/issues">反馈</a>
 </p>
 
-https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
+<p align="center">
+  <img src="docs/public/assets/demo.gif" width="320" alt="SyncWe 演示">
+</p>
 
 ---
 
@@ -44,7 +46,7 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
 |  |  |
 |---|---|
 | **🎯 秒级同步**<br>播放、暂停、拖动进度实时对齐，所有人看到同一帧。 | **🌍 全平台**<br>Android · iOS · macOS · Windows，一个房间跨设备同看。 |
-| **🎬 多源播放**<br>夸克网盘、WebDAV / Alist、Emby，50+ 平台视频解析。 | **💬 边看边聊**<br>聊天、弹幕、语音通话，还能 @ 房间 Bot。 |
+| **🎬 多源播放**<br>123 / 天翼 / 115 / 夸克网盘、WebDAV / Alist、Emby，50+ 平台视频解析。 | **💬 边看边聊**<br>聊天、弹幕、语音通话，还能 @ 房间 Bot。 |
 
 ---
 
@@ -65,20 +67,12 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
 
 <table>
   <tr>
-    <td width="50%"><img src="docs/public/assets/screenshots/landscape1.png" alt="一起看"></td>
-    <td width="50%"><img src="docs/public/assets/screenshots/landscape2.png" alt="房间设置"></td>
+    <td width="50%"><img src="docs/public/assets/screenshots/landscape1.jpg" alt="一起看"></td>
+    <td width="50%"><img src="docs/public/assets/screenshots/landscape2.jpg" alt="全屏播放"></td>
   </tr>
   <tr>
     <td align="center"><sub>一起看 · 边看边聊</sub></td>
-    <td align="center"><sub>房间设置 · 同步控制</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="docs/public/assets/screenshots/landscape3.png" alt="房间列表"></td>
-    <td width="50%"><img src="docs/public/assets/screenshots/landscape4.png" alt="工具中心"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>房间列表 · 找到同伴</sub></td>
-    <td align="center"><sub>工具中心 · 多源播放</sub></td>
+    <td align="center"><sub>全屏播放 · 同步控制</sub></td>
   </tr>
 </table>
 
@@ -87,10 +81,10 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
 
 <br>
 
-<img src="docs/public/assets/screenshots/portrait1.jpg" width="15%" alt="房间列表">
-<img src="docs/public/assets/screenshots/portrait2.jpg" width="15%" alt="工具中心">
-<img src="docs/public/assets/screenshots/portrait3.jpg" width="15%" alt="视频解析">
-<img src="docs/public/assets/screenshots/portrait4.jpg" width="15%" alt="B站解析">
+<img src="docs/public/assets/screenshots/portrait1.jpg" width="15%" alt="新版首页">
+<img src="docs/public/assets/screenshots/portrait2.jpg" width="15%" alt="片源">
+<img src="docs/public/assets/screenshots/portrait3.jpg" width="15%" alt="网盘解析">
+<img src="docs/public/assets/screenshots/portrait4.jpg" width="15%" alt="房间播放">
 <img src="docs/public/assets/screenshots/portrait5.jpg" width="15%" alt="房间设置">
 <img src="docs/public/assets/screenshots/portrait6.jpg" width="15%" alt="观影档案">
 
@@ -104,16 +98,27 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
 <summary><b>🎥 房间与互动</b></summary>
 
 - 同步播放、暂停、拖动进度，所有人看到同一帧
-- 房间码邀请，公开或私密房间
+- 房间码邀请，公开或私密房间、人数上限
 - 聊天、弹幕、语音通话，还能 @ 房间 Bot
 - 播放列表，看完一集自动接下一集
 
 </details>
 
 <details>
+<summary><b>🏠 新版首页</b></summary>
+
+- 「房间 / 片源 / 我的」三栏结构，找片、开房、管理账号更直接
+- 房间列表改成票券卡片，状态、集数和进度一眼可见
+- 设置里可以随时切回旧版首页
+
+</details>
+
+<details>
 <summary><b>📺 片源与解析</b></summary>
 
-- 夸克网盘、WebDAV / Alist、Emby 媒体服务器
+- 123 云盘、天翼云盘、115 网盘、夸克网盘、WebDAV / Alist、Emby 媒体服务器
+- 115 / 夸克支持 App 内扫码登录，不用手动抓 Cookie
+- 粘贴分享链接或整段分享文案即可解析，自动识别提取码，解析页保留最近记录
 - 视频解析：粘贴抖音、快手、小红书等 50 个平台分享链接即可播放
 - 直播解析（抖音 / 哔哩哔哩）、网页视频嗅探
 - 网盘搜索、基于 XPath 社区规则的动漫搜索、番剧排期
@@ -133,8 +138,8 @@ https://github.com/user-attachments/assets/93e35c48-e39c-4c2c-965d-fb6330748d30
 <summary><b>💾 个人中心</b></summary>
 
 - 观影档案，记录一起看过的片子
-- 云端收藏、观看历史跨设备同步
-- 私聊、简评、用户排行
+- 观看历史：房间、网盘、动漫、Emby 统一聚合，支持续播和批量删除
+- 私聊、影评、用户排行
 
 </details>
 
