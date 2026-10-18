@@ -74,10 +74,23 @@
 
 ### 📱 手机端截图
 
-<img src="docs/public/assets/screenshots/portrait1.jpg" width="15%" alt="新版首页">
-<img src="docs/public/assets/screenshots/portrait2.jpg" width="15%" alt="片源">
-<img src="docs/public/assets/screenshots/portrait3.jpg" width="15%" alt="网盘解析">
-<img src="docs/public/assets/screenshots/portrait4.jpg" width="15%" alt="房间播放">
+### 📱 手机端截图
+
+<table>
+  <tr>
+    <td width="25%"><img src="docs/public/assets/screenshots/portrait1.jpg" alt="新版首页"></td>
+    <td width="25%"><img src="docs/public/assets/screenshots/portrait2.jpg" alt="片源"></td>
+    <td width="25%"><img src="docs/public/assets/screenshots/portrait3.jpg" alt="网盘解析"></td>
+    <td width="25%"><img src="docs/public/assets/screenshots/portrait4.jpg" alt="房间播放"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>新版首页</sub></td>
+    <td align="center"><sub>片源</sub></td>
+    <td align="center"><sub>网盘解析</sub></td>
+    <td align="center"><sub>房间播放</sub></td>
+  </tr>
+</table>
+
 
 ---
 
