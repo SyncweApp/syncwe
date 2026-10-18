@@ -74,8 +74,6 @@
 
 ### 📱 手机端截图
 
-### 📱 手机端截图
-
 <table>
   <tr>
     <td width="25%"><img src="docs/public/assets/screenshots/portrait1.jpg" alt="新版首页"></td>
