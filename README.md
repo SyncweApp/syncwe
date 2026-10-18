@@ -35,10 +35,6 @@
   <a href="https://github.com/SyncweApp/syncwe/issues">反馈</a>
 </p>
 
-<p align="center">
-  <img src="docs/public/assets/demo.gif" width="320" alt="SyncWe 演示">
-</p>
-
 ---
 
 ## 一起看，也一起聊
@@ -68,53 +64,39 @@
 <table>
   <tr>
     <td width="50%"><img src="docs/public/assets/screenshots/landscape1.jpg" alt="一起看"></td>
-    <td width="50%"><img src="docs/public/assets/screenshots/landscape2.jpg" alt="全屏播放"></td>
+    <td width="50%"><img src="docs/public/assets/screenshots/landscape2.jpg" alt="片源"></td>
   </tr>
   <tr>
-    <td align="center"><sub>一起看 · 边看边聊</sub></td>
-    <td align="center"><sub>全屏播放 · 同步控制</sub></td>
+    <td align="center"><sub>一起看 · 开房与房间列表</sub></td>
+    <td align="center"><sub>片源 · 粘贴链接与片库</sub></td>
   </tr>
 </table>
 
-<details>
-<summary><b>📱 手机端截图</b></summary>
-
-<br>
+### 📱 手机端截图
 
 <img src="docs/public/assets/screenshots/portrait1.jpg" width="15%" alt="新版首页">
 <img src="docs/public/assets/screenshots/portrait2.jpg" width="15%" alt="片源">
 <img src="docs/public/assets/screenshots/portrait3.jpg" width="15%" alt="网盘解析">
 <img src="docs/public/assets/screenshots/portrait4.jpg" width="15%" alt="房间播放">
-<img src="docs/public/assets/screenshots/portrait5.jpg" width="15%" alt="房间设置">
-<img src="docs/public/assets/screenshots/portrait6.jpg" width="15%" alt="观影档案">
-
-</details>
 
 ---
 
 ## 功能
 
-<details>
-<summary><b>🎥 房间与互动</b></summary>
+### 🎥 房间与互动
 
 - 同步播放、暂停、拖动进度，所有人看到同一帧
 - 房间码邀请，公开或私密房间、人数上限
 - 聊天、弹幕、语音通话，还能 @ 房间 Bot
 - 播放列表，看完一集自动接下一集
 
-</details>
-
-<details>
-<summary><b>🏠 新版首页</b></summary>
+### 🏠 新版首页
 
 - 「房间 / 片源 / 我的」三栏结构，找片、开房、管理账号更直接
 - 房间列表改成票券卡片，状态、集数和进度一眼可见
 - 设置里可以随时切回旧版首页
 
-</details>
-
-<details>
-<summary><b>📺 片源与解析</b></summary>
+### 📺 片源与解析
 
 - 123 云盘、天翼云盘、115 网盘、夸克网盘、WebDAV / Alist、Emby 媒体服务器
 - 115 / 夸克支持 App 内扫码登录，不用手动抓 Cookie
@@ -123,25 +105,17 @@
 - 直播解析（抖音 / 哔哩哔哩）、网页视频嗅探
 - 网盘搜索、基于 XPath 社区规则的动漫搜索、番剧排期
 
-</details>
-
-<details>
-<summary><b>🎮 播放器</b></summary>
+### 🎮 播放器
 
 - 原生 / MPV / MDK 三种内核可切换
 - 倍速、字幕、音轨切换
 - 画中画、DLNA 投屏
 
-</details>
-
-<details>
-<summary><b>💾 个人中心</b></summary>
+### 💾 个人中心
 
 - 观影档案，记录一起看过的片子
 - 观看历史：房间、网盘、动漫、Emby 统一聚合，支持续播和批量删除
 - 私聊、影评、用户排行
-
-</details>
 
 ---
 
@@ -162,12 +136,9 @@
 
 **贡献规则** — 动漫搜索规则由社区维护，欢迎到 [SyncweRules](https://github.com/SyncweApp/SyncweRules) 提交新规则或修复失效规则。
 
-<details>
-<summary><b>⭐ Star History</b></summary>
+### ⭐ Star History
 
 [![Star History](https://api.star-history.com/svg?repos=SyncweApp/syncwe&type=Date&theme=dark)](https://star-history.com/#SyncweApp/syncwe&Date)
-
-</details>
 
 ---
 
