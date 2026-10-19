@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/public/assets/logo.png" width="80" alt="SyncWe">
+  <img src="https://socialify.git.ci/SyncweApp/syncwe/image?description=1&descriptionEditable=%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%92%8C%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%AE%9E%E6%97%B6%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%EF%BC%8C%E5%85%B1%E4%BA%AB%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89&font=Jost&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSyncweApp%2Fsyncwe%2Fmain%2Fdocs%2Fpublic%2Fassets%2Flogo.png&name=1&owner=1&pattern=Plus&theme=Light" alt="Syncwe" />
 </p>
 
-<h1 align="center">SyncWe · 一起看</h1>
+<h1 align="center">SyncWe</h1>
 
 <p align="center">
   和朋友、家人、另一半同步看同一个视频——进度一致，边看边聊。
@@ -37,7 +37,7 @@
 
 ---
 
-## 一起看，也一起聊
+## 同步观看，边看边聊
 
 |  |  |
 |---|---|
