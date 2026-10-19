@@ -46,19 +46,6 @@
 
 ---
 
-## 下载
-
-| 平台 | 安装包 | 系统要求 |
-|---|---|---|
-| 🤖 **Android** | `.apk`：arm64-v8a / armeabi-v7a / x86_64 | Android 7.0+ |
-| 🍎 **iOS** | `.ipa`，用 AltStore / Sideloadly 自签安装 | iOS 15.4+ |
-| 💻 **macOS** | `.dmg` | macOS 12.0+ |
-| 🪟 **Windows** | `windows_x64_setup.exe` | Windows 10+（x64） |
-
-> 大多数手机选 **arm64-v8a**。安装包见 [GitHub Releases](https://github.com/SyncweApp/syncwe/releases/latest)，其他下载方式见 [官网下载页](https://syncwe.top/download/)。
-
----
-
 ## 截图
 
 <table>
@@ -138,6 +125,19 @@
 | [常见问题](docs/help.md) | [WebDAV / Alist](docs/guide/webdav_alist.md) | [视频嗅探](docs/guide/video_sniffer.md) |
 | | [Emby](docs/guide/emby_guide.md) | [直播解析](docs/guide/live_parser.md) |
 | | [动漫搜索](docs/guide/anime_search.md) | |
+
+---
+
+## 下载
+
+| 平台 | 安装包 | 系统要求 |
+|---|---|---|
+| 🤖 **Android** | `.apk`：arm64-v8a / armeabi-v7a / x86_64 | Android 7.0+ |
+| 🍎 **iOS** | `.ipa`，用 AltStore / Sideloadly 自签安装 | iOS 15.4+ |
+| 💻 **macOS** | `.dmg` | macOS 12.0+ |
+| 🪟 **Windows** | `windows_x64_setup.exe` | Windows 10+（x64） |
+
+> 大多数手机选 **arm64-v8a**。安装包见 [GitHub Releases](https://github.com/SyncweApp/syncwe/releases/latest)，其他下载方式见 [官网下载页](https://syncwe.top/download/)。
 
 ---
 
